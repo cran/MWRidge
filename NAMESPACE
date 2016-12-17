@@ -1,0 +1,3 @@
+export("MWRidge","predict")
+import("glmnet")
+importFrom("stats", "binomial", "glm", "na.omit", "sd")
